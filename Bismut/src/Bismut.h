@@ -5,3 +5,4 @@
 
 #include "Bismut/EntryPoint.h"
 #include "Bismut/Application.h"
+#include "Bismut/Events/Event.h"
